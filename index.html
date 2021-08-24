@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration</title>
+  <link rel="stylesheet" href="./style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div>
+  <div class="topnav">
+  <u>STATUS INFOTAINMENT</u>
+  <a href="login.html">If already registered, <u>Sign In</u></a>
+</div>
+
+<div>
+  
+  <form action="store.php" method="post">
+    <h2 class="text-warning text-center pt-5">Register yourself</h2>
+
+    <label>
+      <input type="text" class="input" name="t1" placeholder="ENTER EMAIL" required/>
+        <div class="line-box">
+          <div class="line"></div>
+        </div>
+    </label>
+
+    <label>
+        <input type="text" class="input" name="t2" placeholder="ENTER USERNAME" required/>
+        <div class="line-box">
+          <div class="line"></div>
+        </div>
+    </label>
+
+    <label>
+        <input type="password" class="input" name="t3" placeholder="ENTER PASSWORD" required/>
+        <div class="line-box">
+          <div class="line"></div>
+        </div>
+    </label>
+
+    <label>
+      <input type="text" class="input" name="t4" placeholder="CONTACT NUMBER" required/>
+      <div class="line-box">
+        <div class="line"></div>
+      </div>
+    </label>
+
+    <label>
+      <select class="input" name="t5" placeholder="HIGHEST QUALIFICATION" required/>
+      <option>Undergraduate</option>
+      <option>Graduate</option>
+      <option>Postgraduate</option>
+      </select>
+      <div class="line-box">
+        <div class="line"></div>
+      </div>
+    </label>
+
+    <button type="submit">REGISTER</button>
+  </form>
+</div>
+ </body>
+</html>

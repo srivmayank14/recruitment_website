@@ -1,0 +1,1 @@
+Q13. write a program for sum of squares of first n natural number.

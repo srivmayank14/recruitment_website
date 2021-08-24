@@ -1,0 +1,2 @@
+
+Q17. write a program to print the matrix of n*n.

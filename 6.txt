@@ -1,0 +1,1 @@
+Q6. write a program to find the area of a circle.

@@ -1,0 +1,1 @@
+Q11. write a program to find simple intrest.

@@ -1,0 +1,1 @@
+Q14. write a program to find the third angle of triangle using the other two angles.

@@ -1,0 +1,7 @@
+Q4. write a program to print the pattern.
+    *****
+    ****
+    ***
+    **
+    *
+
